@@ -9,7 +9,7 @@ This is a repo to hold the Dockerfile and build and deploy code for
 researchbridgepartners/python-common
 ```
 
-This image bundles up common libraries used across pythong based data science work at Reserach Bridge Partners. 
+This image bundles up common libraries used across python based data science work at Research Bridge Partners. 
 
 
 `v0.0.2` is built on the image for `python:3.7.1`
