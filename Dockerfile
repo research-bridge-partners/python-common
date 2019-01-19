@@ -1,4 +1,4 @@
-FROM python:3.7.1
+FROM python:3.7.2
 
 RUN mkdir -p /usr/src/common
 WORKDIR /usr/src/common
